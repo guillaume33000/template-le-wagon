@@ -9365,7 +9365,7 @@ button.close {
   position: relative;
   height: 175px;
   text-shadow: 0 1px 3px rgba(0, 0, 0, 0.6);
-  color: white;
+  color: #469AE0;
   margin: 20px auto; }
   /* line 7, /Users/guillaumecampo/code/guillaume33000/Template Le Wagon/template-le-wagon/source/stylesheets/components/_card.scss */
   .card-bg {
@@ -9378,34 +9378,35 @@ button.close {
   /* line 15, /Users/guillaumecampo/code/guillaume33000/Template Le Wagon/template-le-wagon/source/stylesheets/components/_card.scss */
   .card-shadow {
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0.1) 80%);
+    border-radius: 4px;
     position: absolute;
     top: 0;
     bottom: 0;
     width: 100%; }
-  /* line 22, /Users/guillaumecampo/code/guillaume33000/Template Le Wagon/template-le-wagon/source/stylesheets/components/_card.scss */
+  /* line 23, /Users/guillaumecampo/code/guillaume33000/Template Le Wagon/template-le-wagon/source/stylesheets/components/_card.scss */
   .card-description {
     font-size: 10px;
     text-transform: uppercase;
     position: absolute;
     top: 10px;
     left: 10px; }
-  /* line 29, /Users/guillaumecampo/code/guillaume33000/Template Le Wagon/template-le-wagon/source/stylesheets/components/_card.scss */
+  /* line 30, /Users/guillaumecampo/code/guillaume33000/Template Le Wagon/template-le-wagon/source/stylesheets/components/_card.scss */
   .card-text {
     position: absolute;
     bottom: 10px;
     left: 10px; }
-    /* line 33, /Users/guillaumecampo/code/guillaume33000/Template Le Wagon/template-le-wagon/source/stylesheets/components/_card.scss */
+    /* line 34, /Users/guillaumecampo/code/guillaume33000/Template Le Wagon/template-le-wagon/source/stylesheets/components/_card.scss */
     .card-text h2 {
       font-size: 24px; }
-    /* line 36, /Users/guillaumecampo/code/guillaume33000/Template Le Wagon/template-le-wagon/source/stylesheets/components/_card.scss */
+    /* line 37, /Users/guillaumecampo/code/guillaume33000/Template Le Wagon/template-le-wagon/source/stylesheets/components/_card.scss */
     .card-text p {
       font-size: 13px; }
-  /* line 40, /Users/guillaumecampo/code/guillaume33000/Template Le Wagon/template-le-wagon/source/stylesheets/components/_card.scss */
+  /* line 41, /Users/guillaumecampo/code/guillaume33000/Template Le Wagon/template-le-wagon/source/stylesheets/components/_card.scss */
   .card-user {
     position: absolute;
     right: 10px;
     top: 10px; }
-  /* line 45, /Users/guillaumecampo/code/guillaume33000/Template Le Wagon/template-le-wagon/source/stylesheets/components/_card.scss */
+  /* line 46, /Users/guillaumecampo/code/guillaume33000/Template Le Wagon/template-le-wagon/source/stylesheets/components/_card.scss */
   .card-link {
     position: absolute;
     top: 0;
@@ -9414,7 +9415,7 @@ button.close {
     z-index: 2;
     background: black;
     opacity: 0; }
-    /* line 53, /Users/guillaumecampo/code/guillaume33000/Template Le Wagon/template-le-wagon/source/stylesheets/components/_card.scss */
+    /* line 54, /Users/guillaumecampo/code/guillaume33000/Template Le Wagon/template-le-wagon/source/stylesheets/components/_card.scss */
     .card-link:hover {
       opacity: 0.1; }
 
@@ -9436,6 +9437,12 @@ button.close {
 /* line 17, /Users/guillaumecampo/code/guillaume33000/Template Le Wagon/template-le-wagon/source/stylesheets/components/_feature.scss */
 .feature-padded {
   padding-top: 3 0px; }
+/* line 21, /Users/guillaumecampo/code/guillaume33000/Template Le Wagon/template-le-wagon/source/stylesheets/components/_feature.scss */
+.feature-id {
+  margin-top: 20px;
+  border-radius: 4px;
+  border: #FDB631 1px solid;
+  padding: 0px 20px; }
 
 /* line 1, /Users/guillaumecampo/code/guillaume33000/Template Le Wagon/template-le-wagon/source/stylesheets/components/_newsletter.scss */
 .newsletter {
