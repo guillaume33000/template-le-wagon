@@ -1,0 +1,19 @@
+.members {
+  h2 {
+    font-size: 17px;
+    line-height: 25px;
+    font-weight: bold;
+    color: $gray-lighter;
+  }
+  p {
+    font-size: 15px;
+    color: $gray-lighter;
+    font-weight: 300;
+  }
+  &-id{
+    background-color : $green;
+    border-radius : 4px;
+    padding: 5px 5px;
+    margin-top: 10px;
+  }
+}

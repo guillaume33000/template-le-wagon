@@ -1,4 +1,8 @@
-- name: Some product
-  image: some_product.png
-- name: Other product
-  image: other_product.png
+- name: Produit 1
+  picture: http://s.plurielles.fr/mmdia/i/65/2/viande-crue-10713652sitdh.jpg?v=2
+  price: 15€
+  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores sequi sed, odit tenetur? Necessitatibus"
+- name: Produit 2
+  picture: http://www.jds.fr/medias/image/entrecote-viande-grillee-17977-600-600-F.jpg
+  price: 20€
+  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores sequi sed, odit tenetur? Necessitatibus"

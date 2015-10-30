@@ -1,0 +1,19 @@
+.pricing {
+  &-img {
+    width : 150px;
+    border : red 1px solid;
+    margin: 50px auto 10px;
+  }
+  &-text{
+    color:white;
+    h3{
+      font-size : 34px;
+      margin-top : 7px;
+    }
+  }
+  &-bg{
+    background : $blue;
+    border-radius:4px;
+    margin : 10px;
+  }
+}

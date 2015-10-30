@@ -1,7 +1,7 @@
 .footer {
-  background-color: #333333;
+  background-color: $gray;
   padding: 30px 0;
-  color: #CCCCCC;
+  color: $gray-lighter;
   position: absolute;
   left : 0;
   right : 0;
@@ -13,13 +13,13 @@
     margin-top: 10px;
   }
   & a {
-    color: #CCCCCC;
+    color: $gray-lighter;
     font-size: 30px;
     letter-spacing: 20px;
     transition: color 0.5s ease;
   }
   & a:hover{
-    color: yellow;
+    color: $greenclear;
   }
   &-padding {
     padding-top : 25px;
