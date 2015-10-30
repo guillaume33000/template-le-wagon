@@ -2,7 +2,7 @@
   position: relative;
   height: 175px;
   text-shadow: 0 1px 3px rgba(0,0,0,0.6);
-  color: white;
+  color: $blue;
   margin: 20px auto;
   &-bg{
     background-size: cover;
@@ -14,6 +14,7 @@
   }
   &-shadow {
     background-image: linear-gradient(to right, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.1) 80%);
+    border-radius: 4px;
     position: absolute;
     top: 0;
     bottom: 0;
