@@ -1,4 +1,10 @@
 // General Style Variables
+html {
+  position:relative;
+  padding-bottom: 123px;
+  min-height: 100%;
+}
+
 @import "config/variables";
 @import "config/bootstrap_variables";
 

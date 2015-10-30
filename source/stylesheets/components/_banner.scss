@@ -1,0 +1,18 @@
+.banner{
+  background-image : url('https://unsplash.it/800/600/?random');
+  background-size: cover;
+  color : white;
+  z-index: 0;
+  h1{
+    font-family: Raleway;
+    font-weight: 700;
+  }
+  &-gradient{
+    background: linear-gradient(90deg, rgba(95, 44, 130, 0.5) 10%, rgba(73, 160, 157, 0.5) 90%);
+    z-index: 1;
+  }
+  &-text{
+    padding: 80px 0;
+    z-index: 2;
+  }
+}
