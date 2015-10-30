@@ -1421,11 +1421,11 @@ textarea {
 
 /* line 48, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_scaffolding.scss */
 a {
-  color: #469AE0;
+  color: #247BA0;
   text-decoration: none; }
   /* line 52, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_scaffolding.scss */
   a:hover, a:focus {
-    color: #1f74ba;
+    color: #164b62;
     text-decoration: underline; }
   /* line 58, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_scaffolding.scss */
   a:focus {
@@ -1648,11 +1648,11 @@ mark,
 
 /* line 5, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_text-emphasis.scss */
 .text-primary {
-  color: #469AE0; }
+  color: #247BA0; }
 
 /* line 8, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_text-emphasis.scss */
 a.text-primary:hover {
-  color: #2381d0; }
+  color: #1b5b76; }
 
 /* line 5, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_text-emphasis.scss */
 .text-success {
@@ -1692,11 +1692,11 @@ a.text-danger:hover {
 
 /* line 5, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_background-variant.scss */
 .bg-primary {
-  background-color: #469AE0; }
+  background-color: #247BA0; }
 
 /* line 8, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_background-variant.scss */
 a.bg-primary:hover {
-  background-color: #2381d0; }
+  background-color: #1b5b76; }
 
 /* line 5, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_background-variant.scss */
 .bg-success {
@@ -3677,116 +3677,116 @@ select[multiple].input-lg,
 /* line 63, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_buttons.scss */
 .btn-primary {
   color: #fff;
-  background-color: #469AE0;
-  border-color: #308edc; }
+  background-color: #247BA0;
+  border-color: #1f6b8b; }
   /* line 11, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_buttons.scss */
   .btn-primary:hover, .btn-primary:focus, .btn-primary.focus, .btn-primary:active, .btn-primary.active, .open > .btn-primary.dropdown-toggle {
     color: #fff;
-    background-color: #2381d0;
-    border-color: #1e6eb2; }
+    background-color: #1b5b76;
+    border-color: #144559; }
   /* line 21, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_buttons.scss */
   .btn-primary:active, .btn-primary.active, .open > .btn-primary.dropdown-toggle {
     background-image: none; }
   /* line 29, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_buttons.scss */
   .btn-primary.disabled, .btn-primary.disabled:hover, .btn-primary.disabled:focus, .btn-primary.disabled.focus, .btn-primary.disabled:active, .btn-primary.disabled.active, .btn-primary[disabled], .btn-primary[disabled]:hover, .btn-primary[disabled]:focus, .btn-primary[disabled].focus, .btn-primary[disabled]:active, .btn-primary[disabled].active, fieldset[disabled] .btn-primary, fieldset[disabled] .btn-primary:hover, fieldset[disabled] .btn-primary:focus, fieldset[disabled] .btn-primary.focus, fieldset[disabled] .btn-primary:active, fieldset[disabled] .btn-primary.active {
-    background-color: #469AE0;
-    border-color: #308edc; }
+    background-color: #247BA0;
+    border-color: #1f6b8b; }
   /* line 40, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_buttons.scss */
   .btn-primary .badge {
-    color: #469AE0;
+    color: #247BA0;
     background-color: #fff; }
 
 /* line 67, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_buttons.scss */
 .btn-success {
   color: #fff;
-  background-color: #32B796;
-  border-color: #2da386; }
+  background-color: #70C1B3;
+  border-color: #5eb9aa; }
   /* line 11, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_buttons.scss */
   .btn-success:hover, .btn-success:focus, .btn-success.focus, .btn-success:active, .btn-success.active, .open > .btn-success.dropdown-toggle {
     color: #fff;
-    background-color: #278f75;
-    border-color: #1f735e; }
+    background-color: #4db1a0;
+    border-color: #429889; }
   /* line 21, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_buttons.scss */
   .btn-success:active, .btn-success.active, .open > .btn-success.dropdown-toggle {
     background-image: none; }
   /* line 29, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_buttons.scss */
   .btn-success.disabled, .btn-success.disabled:hover, .btn-success.disabled:focus, .btn-success.disabled.focus, .btn-success.disabled:active, .btn-success.disabled.active, .btn-success[disabled], .btn-success[disabled]:hover, .btn-success[disabled]:focus, .btn-success[disabled].focus, .btn-success[disabled]:active, .btn-success[disabled].active, fieldset[disabled] .btn-success, fieldset[disabled] .btn-success:hover, fieldset[disabled] .btn-success:focus, fieldset[disabled] .btn-success.focus, fieldset[disabled] .btn-success:active, fieldset[disabled] .btn-success.active {
-    background-color: #32B796;
-    border-color: #2da386; }
+    background-color: #70C1B3;
+    border-color: #5eb9aa; }
   /* line 40, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_buttons.scss */
   .btn-success .badge {
-    color: #32B796;
+    color: #70C1B3;
     background-color: #fff; }
 
 /* line 71, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_buttons.scss */
 .btn-info {
   color: #fff;
-  background-color: #FDB631;
-  border-color: #fdad18; }
+  background-color: #F3FFBD;
+  border-color: #eeffa4; }
   /* line 11, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_buttons.scss */
   .btn-info:hover, .btn-info:focus, .btn-info.focus, .btn-info:active, .btn-info.active, .open > .btn-info.dropdown-toggle {
     color: #fff;
-    background-color: #f9a302;
-    border-color: #d58c02; }
+    background-color: #eaff8a;
+    border-color: #e3ff66; }
   /* line 21, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_buttons.scss */
   .btn-info:active, .btn-info.active, .open > .btn-info.dropdown-toggle {
     background-image: none; }
   /* line 29, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_buttons.scss */
   .btn-info.disabled, .btn-info.disabled:hover, .btn-info.disabled:focus, .btn-info.disabled.focus, .btn-info.disabled:active, .btn-info.disabled.active, .btn-info[disabled], .btn-info[disabled]:hover, .btn-info[disabled]:focus, .btn-info[disabled].focus, .btn-info[disabled]:active, .btn-info[disabled].active, fieldset[disabled] .btn-info, fieldset[disabled] .btn-info:hover, fieldset[disabled] .btn-info:focus, fieldset[disabled] .btn-info.focus, fieldset[disabled] .btn-info:active, fieldset[disabled] .btn-info.active {
-    background-color: #FDB631;
-    border-color: #fdad18; }
+    background-color: #F3FFBD;
+    border-color: #eeffa4; }
   /* line 40, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_buttons.scss */
   .btn-info .badge {
-    color: #FDB631;
+    color: #F3FFBD;
     background-color: #fff; }
 
 /* line 75, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_buttons.scss */
 .btn-warning {
   color: #fff;
-  background-color: #E67E22;
-  border-color: #d67118; }
+  background-color: #B2DBBF;
+  border-color: #a1d3b1; }
   /* line 11, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_buttons.scss */
   .btn-warning:hover, .btn-warning:focus, .btn-warning.focus, .btn-warning:active, .btn-warning.active, .open > .btn-warning.dropdown-toggle {
     color: #fff;
-    background-color: #bf6516;
-    border-color: #9f5412; }
+    background-color: #8fcba2;
+    border-color: #77bf8e; }
   /* line 21, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_buttons.scss */
   .btn-warning:active, .btn-warning.active, .open > .btn-warning.dropdown-toggle {
     background-image: none; }
   /* line 29, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_buttons.scss */
   .btn-warning.disabled, .btn-warning.disabled:hover, .btn-warning.disabled:focus, .btn-warning.disabled.focus, .btn-warning.disabled:active, .btn-warning.disabled.active, .btn-warning[disabled], .btn-warning[disabled]:hover, .btn-warning[disabled]:focus, .btn-warning[disabled].focus, .btn-warning[disabled]:active, .btn-warning[disabled].active, fieldset[disabled] .btn-warning, fieldset[disabled] .btn-warning:hover, fieldset[disabled] .btn-warning:focus, fieldset[disabled] .btn-warning.focus, fieldset[disabled] .btn-warning:active, fieldset[disabled] .btn-warning.active {
-    background-color: #E67E22;
-    border-color: #d67118; }
+    background-color: #B2DBBF;
+    border-color: #a1d3b1; }
   /* line 40, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_buttons.scss */
   .btn-warning .badge {
-    color: #E67E22;
+    color: #B2DBBF;
     background-color: #fff; }
 
 /* line 79, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_buttons.scss */
 .btn-danger {
   color: #fff;
-  background-color: #EE5F5B;
-  border-color: #ec4844; }
+  background-color: #FF1654;
+  border-color: #fb0043; }
   /* line 11, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_buttons.scss */
   .btn-danger:hover, .btn-danger:focus, .btn-danger.focus, .btn-danger:active, .btn-danger.active, .open > .btn-danger.dropdown-toggle {
     color: #fff;
-    background-color: #e9322d;
-    border-color: #dc1c17; }
+    background-color: #e2003c;
+    border-color: #be0033; }
   /* line 21, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_buttons.scss */
   .btn-danger:active, .btn-danger.active, .open > .btn-danger.dropdown-toggle {
     background-image: none; }
   /* line 29, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_buttons.scss */
   .btn-danger.disabled, .btn-danger.disabled:hover, .btn-danger.disabled:focus, .btn-danger.disabled.focus, .btn-danger.disabled:active, .btn-danger.disabled.active, .btn-danger[disabled], .btn-danger[disabled]:hover, .btn-danger[disabled]:focus, .btn-danger[disabled].focus, .btn-danger[disabled]:active, .btn-danger[disabled].active, fieldset[disabled] .btn-danger, fieldset[disabled] .btn-danger:hover, fieldset[disabled] .btn-danger:focus, fieldset[disabled] .btn-danger.focus, fieldset[disabled] .btn-danger:active, fieldset[disabled] .btn-danger.active {
-    background-color: #EE5F5B;
-    border-color: #ec4844; }
+    background-color: #FF1654;
+    border-color: #fb0043; }
   /* line 40, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_buttons.scss */
   .btn-danger .badge {
-    color: #EE5F5B;
+    color: #FF1654;
     background-color: #fff; }
 
 /* line 88, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_buttons.scss */
 .btn-link {
-  color: #469AE0;
+  color: #247BA0;
   font-weight: normal;
   border-radius: 0; }
   /* line 93, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_buttons.scss */
@@ -3798,7 +3798,7 @@ select[multiple].input-lg,
     border-color: transparent; }
   /* line 107, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_buttons.scss */
   .btn-link:hover, .btn-link:focus {
-    color: #1f74ba;
+    color: #164b62;
     text-decoration: underline;
     background-color: transparent; }
   /* line 115, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_buttons.scss */
@@ -3945,7 +3945,7 @@ tbody.collapse.in {
   color: #fff;
   text-decoration: none;
   outline: 0;
-  background-color: #469AE0; }
+  background-color: #247BA0; }
 
 /* line 102, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_dropdowns.scss */
 .dropdown-menu > .disabled > a, .dropdown-menu > .disabled > a:hover, .dropdown-menu > .disabled > a:focus {
@@ -4377,7 +4377,7 @@ tbody.collapse.in {
   /* line 46, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_navs.scss */
   .nav .open > a, .nav .open > a:hover, .nav .open > a:focus {
     background-color: #eeeeee;
-    border-color: #469AE0; }
+    border-color: #247BA0; }
   /* line 59, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_navs.scss */
   .nav .nav-divider {
     height: 1px;
@@ -4424,7 +4424,7 @@ tbody.collapse.in {
   /* line 131, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_navs.scss */
   .nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
     color: #fff;
-    background-color: #469AE0; }
+    background-color: #247BA0; }
 
 /* line 144, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_navs.scss */
 .nav-stacked > li {
@@ -5037,7 +5037,7 @@ tbody.collapse.in {
       padding: 6px 12px;
       line-height: 1.4;
       text-decoration: none;
-      color: #469AE0;
+      color: #247BA0;
       background-color: #fff;
       border: 1px solid #ddd;
       margin-left: -1px; }
@@ -5056,7 +5056,7 @@ tbody.collapse.in {
   .pagination > li > a:hover, .pagination > li > a:focus,
   .pagination > li > span:hover,
   .pagination > li > span:focus {
-    color: #1f74ba;
+    color: #164b62;
     background-color: #eeeeee;
     border-color: #ddd; }
   /* line 51, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_pagination.scss */
@@ -5066,8 +5066,8 @@ tbody.collapse.in {
   .pagination > .active > span:focus {
     z-index: 2;
     color: #fff;
-    background-color: #469AE0;
-    border-color: #469AE0;
+    background-color: #247BA0;
+    border-color: #247BA0;
     cursor: default; }
   /* line 63, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_pagination.scss */
   .pagination > .disabled > span,
@@ -5194,38 +5194,38 @@ a.label:hover, a.label:focus {
 
 /* line 48, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_labels.scss */
 .label-primary {
-  background-color: #469AE0; }
+  background-color: #247BA0; }
   /* line 7, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_labels.scss */
   .label-primary[href]:hover, .label-primary[href]:focus {
-    background-color: #2381d0; }
+    background-color: #1b5b76; }
 
 /* line 52, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_labels.scss */
 .label-success {
-  background-color: #32B796; }
+  background-color: #70C1B3; }
   /* line 7, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_labels.scss */
   .label-success[href]:hover, .label-success[href]:focus {
-    background-color: #278f75; }
+    background-color: #4db1a0; }
 
 /* line 56, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_labels.scss */
 .label-info {
-  background-color: #FDB631; }
+  background-color: #F3FFBD; }
   /* line 7, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_labels.scss */
   .label-info[href]:hover, .label-info[href]:focus {
-    background-color: #f9a302; }
+    background-color: #eaff8a; }
 
 /* line 60, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_labels.scss */
 .label-warning {
-  background-color: #E67E22; }
+  background-color: #B2DBBF; }
   /* line 7, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_labels.scss */
   .label-warning[href]:hover, .label-warning[href]:focus {
-    background-color: #bf6516; }
+    background-color: #8fcba2; }
 
 /* line 64, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_labels.scss */
 .label-danger {
-  background-color: #EE5F5B; }
+  background-color: #FF1654; }
   /* line 7, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_labels.scss */
   .label-danger[href]:hover, .label-danger[href]:focus {
-    background-color: #e9322d; }
+    background-color: #e2003c; }
 
 /* line 7, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_badges.scss */
 .badge {
@@ -5254,7 +5254,7 @@ a.label:hover, a.label:focus {
     padding: 1px 5px; }
   /* line 41, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_badges.scss */
   .list-group-item.active > .badge, .nav-pills > .active > a > .badge {
-    color: #469AE0;
+    color: #247BA0;
     background-color: #fff; }
   /* line 47, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_badges.scss */
   .list-group-item > .badge {
@@ -5336,7 +5336,7 @@ a.badge:hover, a.badge:focus {
 a.thumbnail:hover,
 a.thumbnail:focus,
 a.thumbnail.active {
-  border-color: #469AE0; }
+  border-color: #247BA0; }
 
 /* line 9, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_alerts.scss */
 .alert {
@@ -5441,7 +5441,7 @@ a.thumbnail.active {
   line-height: 22px;
   color: #fff;
   text-align: center;
-  background-color: #469AE0;
+  background-color: #247BA0;
   box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);
   transition: width 0.6s ease; }
 
@@ -5458,28 +5458,28 @@ a.thumbnail.active {
 
 /* line 73, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_progress-bars.scss */
 .progress-bar-success {
-  background-color: #32B796; }
+  background-color: #70C1B3; }
   /* line 7, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_progress-bar.scss */
   .progress-striped .progress-bar-success {
     background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent); }
 
 /* line 77, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_progress-bars.scss */
 .progress-bar-info {
-  background-color: #FDB631; }
+  background-color: #F3FFBD; }
   /* line 7, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_progress-bar.scss */
   .progress-striped .progress-bar-info {
     background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent); }
 
 /* line 81, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_progress-bars.scss */
 .progress-bar-warning {
-  background-color: #E67E22; }
+  background-color: #B2DBBF; }
   /* line 7, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_progress-bar.scss */
   .progress-striped .progress-bar-warning {
     background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent); }
 
 /* line 85, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_progress-bars.scss */
 .progress-bar-danger {
-  background-color: #EE5F5B; }
+  background-color: #FF1654; }
   /* line 7, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_progress-bar.scss */
   .progress-striped .progress-bar-danger {
     background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent); }
@@ -5590,8 +5590,8 @@ a.list-group-item {
 .list-group-item.active, .list-group-item.active:hover, .list-group-item.active:focus {
   z-index: 2;
   color: #fff;
-  background-color: #469AE0;
-  border-color: #469AE0; }
+  background-color: #247BA0;
+  border-color: #247BA0; }
   /* line 90, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_list-group.scss */
   .list-group-item.active .list-group-item-heading,
   .list-group-item.active .list-group-item-heading > small,
@@ -5603,7 +5603,7 @@ a.list-group-item {
     color: inherit; }
   /* line 95, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_list-group.scss */
   .list-group-item.active .list-group-item-text, .list-group-item.active:hover .list-group-item-text, .list-group-item.active:focus .list-group-item-text {
-    color: #f5f9fd; }
+    color: #a5d6eb; }
 
 /* line 4, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_list-group.scss */
 .list-group-item-success {
@@ -5967,22 +5967,22 @@ a.list-group-item-danger {
 
 /* line 251, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_panels.scss */
 .panel-primary {
-  border-color: #469AE0; }
+  border-color: #247BA0; }
   /* line 6, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_panels.scss */
   .panel-primary > .panel-heading {
     color: #fff;
-    background-color: #469AE0;
-    border-color: #469AE0; }
+    background-color: #247BA0;
+    border-color: #247BA0; }
     /* line 11, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_panels.scss */
     .panel-primary > .panel-heading + .panel-collapse > .panel-body {
-      border-top-color: #469AE0; }
+      border-top-color: #247BA0; }
     /* line 14, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_panels.scss */
     .panel-primary > .panel-heading .badge {
-      color: #469AE0;
+      color: #247BA0;
       background-color: #fff; }
   /* line 20, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_panels.scss */
   .panel-primary > .panel-footer + .panel-collapse > .panel-body {
-    border-bottom-color: #469AE0; }
+    border-bottom-color: #247BA0; }
 
 /* line 254, /Users/guillaumecampo/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/_panels.scss */
 .panel-success {
@@ -9136,9 +9136,9 @@ button.close {
 
 /* line 1, /Users/guillaumecampo/code/guillaume33000/Template Le Wagon/template-le-wagon/source/stylesheets/layout/_footer.css.scss */
 .footer {
-  background-color: #333333;
+  background-color: #555555;
   padding: 30px 0;
-  color: #CCCCCC;
+  color: #eeeeee;
   position: absolute;
   left: 0;
   right: 0;
@@ -9151,13 +9151,13 @@ button.close {
     margin-top: 10px; }
   /* line 15, /Users/guillaumecampo/code/guillaume33000/Template Le Wagon/template-le-wagon/source/stylesheets/layout/_footer.css.scss */
   .footer a {
-    color: #CCCCCC;
+    color: #eeeeee;
     font-size: 30px;
     letter-spacing: 20px;
     transition: color 0.5s ease; }
   /* line 21, /Users/guillaumecampo/code/guillaume33000/Template Le Wagon/template-le-wagon/source/stylesheets/layout/_footer.css.scss */
   .footer a:hover {
-    color: yellow; }
+    color: #B2DBBF; }
   /* line 24, /Users/guillaumecampo/code/guillaume33000/Template Le Wagon/template-le-wagon/source/stylesheets/layout/_footer.css.scss */
   .footer-padding {
     padding-top: 25px; }
@@ -9326,13 +9326,13 @@ button.close {
   background: grey; }
   /* line 22, /Users/guillaumecampo/code/guillaume33000/Template Le Wagon/template-le-wagon/source/stylesheets/components/_badge.scss */
   .icon-badge-red, .user-badge-red {
-    background: #EE5F5B; }
+    background: #FF1654; }
   /* line 25, /Users/guillaumecampo/code/guillaume33000/Template Le Wagon/template-le-wagon/source/stylesheets/components/_badge.scss */
   .icon-badge-green, .user-badge-green {
-    background: #32B796; }
+    background: #70C1B3; }
   /* line 28, /Users/guillaumecampo/code/guillaume33000/Template Le Wagon/template-le-wagon/source/stylesheets/components/_badge.scss */
   .icon-badge-blue, .user-badge-blue {
-    background: #469AE0; }
+    background: #247BA0; }
   /* line 31, /Users/guillaumecampo/code/guillaume33000/Template Le Wagon/template-le-wagon/source/stylesheets/components/_badge.scss */
   .icon-badge-black, .user-badge-black {
     background: black; }
@@ -9365,7 +9365,7 @@ button.close {
   position: relative;
   height: 175px;
   text-shadow: 0 1px 3px rgba(0, 0, 0, 0.6);
-  color: #469AE0;
+  color: #eeeeee;
   margin: 20px auto; }
   /* line 7, /Users/guillaumecampo/code/guillaume33000/Template Le Wagon/template-le-wagon/source/stylesheets/components/_card.scss */
   .card-bg {
@@ -9436,18 +9436,54 @@ button.close {
   margin-right: 5px; }
 /* line 17, /Users/guillaumecampo/code/guillaume33000/Template Le Wagon/template-le-wagon/source/stylesheets/components/_feature.scss */
 .feature-padded {
-  padding-top: 3 0px; }
-/* line 21, /Users/guillaumecampo/code/guillaume33000/Template Le Wagon/template-le-wagon/source/stylesheets/components/_feature.scss */
+  padding-top: 30px; }
+/* line 20, /Users/guillaumecampo/code/guillaume33000/Template Le Wagon/template-le-wagon/source/stylesheets/components/_feature.scss */
 .feature-id {
   margin-top: 20px;
   border-radius: 4px;
-  border: #FDB631 1px solid;
-  padding: 0px 20px; }
+  border: #F3FFBD 1px solid;
+  padding: 0px 10px; }
+
+/* line 2, /Users/guillaumecampo/code/guillaume33000/Template Le Wagon/template-le-wagon/source/stylesheets/components/_members.scss */
+.members h2 {
+  font-size: 17px;
+  line-height: 25px;
+  font-weight: bold;
+  color: #eeeeee; }
+/* line 8, /Users/guillaumecampo/code/guillaume33000/Template Le Wagon/template-le-wagon/source/stylesheets/components/_members.scss */
+.members p {
+  font-size: 15px;
+  color: #eeeeee;
+  font-weight: 300; }
+/* line 13, /Users/guillaumecampo/code/guillaume33000/Template Le Wagon/template-le-wagon/source/stylesheets/components/_members.scss */
+.members-id {
+  background-color: #70C1B3;
+  border-radius: 4px;
+  padding: 5px 5px;
+  margin-top: 10px; }
 
 /* line 1, /Users/guillaumecampo/code/guillaume33000/Template Le Wagon/template-le-wagon/source/stylesheets/components/_newsletter.scss */
 .newsletter {
   padding-top: 0;
   padding-bottom: 0; }
+
+/* line 2, /Users/guillaumecampo/code/guillaume33000/Template Le Wagon/template-le-wagon/source/stylesheets/components/_pricing.scss */
+.pricing-img {
+  width: 150px;
+  border: red 1px solid;
+  margin: 50px auto 10px; }
+/* line 7, /Users/guillaumecampo/code/guillaume33000/Template Le Wagon/template-le-wagon/source/stylesheets/components/_pricing.scss */
+.pricing-text {
+  color: white; }
+  /* line 9, /Users/guillaumecampo/code/guillaume33000/Template Le Wagon/template-le-wagon/source/stylesheets/components/_pricing.scss */
+  .pricing-text h3 {
+    font-size: 34px;
+    margin-top: 7px; }
+/* line 14, /Users/guillaumecampo/code/guillaume33000/Template Le Wagon/template-le-wagon/source/stylesheets/components/_pricing.scss */
+.pricing-bg {
+  background: #247BA0;
+  border-radius: 4px;
+  margin: 10px; }
 
 /* line 2, /Users/guillaumecampo/code/guillaume33000/Template Le Wagon/template-le-wagon/source/stylesheets/pages/_contact.scss */
 .contact h4 {
@@ -9457,9 +9493,12 @@ button.close {
   padding-top: 25px; }
 /* line 8, /Users/guillaumecampo/code/guillaume33000/Template Le Wagon/template-le-wagon/source/stylesheets/pages/_contact.scss */
 .contact h2 {
-  color: #333333;
-  font-family: Raleway;
-  font-size: 28px; }
+  font-family: Raleway; }
+
+/* line 1, /Users/guillaumecampo/code/guillaume33000/Template Le Wagon/template-le-wagon/source/stylesheets/pages/_products.scss */
+.products-container {
+  margin-top: 20px;
+  margin-bottom: 80px; }
 
 /*
 ==============================================
