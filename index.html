@@ -29,7 +29,7 @@
     <nav class="navbar-wagon">
   <div class="container navbar-wagon-container">
 
-<a href="/template-le-wagon">    <img class="navbar-wagon-logo" src="https://pbs.twimg.com/profile_images/641724633876709376/AhmNOE3a_400x400.jpg" />
+<a href="/">    <img class="navbar-wagon-logo" src="https://pbs.twimg.com/profile_images/641724633876709376/AhmNOE3a_400x400.jpg" />
 </a>
     <form action="" class="navbar-wagon-search">
       <input type="text" class="navbar-wagon-search-input hidden-xs" placeholder="Search for featured stuff">
@@ -43,6 +43,8 @@
     <a href="contact.html" class="navbar-wagon-item navbar-wagon-link">Team</a>
 
     <a href="pricing.html" class="navbar-wagon-item navbar-wagon-link">Produits</a>
+
+    <a href="/#map" class="navbar-wagon-item navbar-wagon-link">Find us</a>
 
     <div class="navbar-wagon-item">
       <a href="" class="navbar-wagon-button btn btn-default">Post stuff</a>
@@ -74,11 +76,11 @@
 
     <div class="banner text-center">
   <div class="banner-gradient banner-text">
-    <h1>Ouipharma</h1>
-    <span>Very cool stuff, useful and smart</span>
-    <br>
-    <br>
-    <div class="btn btn-primary btn-lg">GET IT</div>
+    <div class="fadeInAndSlideDown">
+      <h1 class="">Ouipharma</h1>
+      <p class="">Very cool stuff, useful and smart</p>
+      <div class="btn btn-primary btn-lg ">GET IT</div>
+    </div>
   </div>
 </div>
 
@@ -117,7 +119,7 @@
     <div class="container">
       <div class="row">
         <div class="col-xs-12 col-sm-4">
-          <div class="card">
+          <div class="card" data-sr="scale up 20%">
             <span class="card-bg" style="background-image: url('http://unsplash.it/500/300/?image=0')"></span>
             <span class="card-shadow"></span>
             <span class="card-description">Popular</span>
@@ -132,7 +134,7 @@
           </div>
         </div>
         <div class="col-xs-12 col-sm-4">
-          <div class="card">
+          <div class="card" data-sr="scale up 20%">
             <span class="card-bg" style="background-image: url('http://unsplash.it/500/300/?image=1')"></span>
             <span class="card-shadow"></span>
             <span class="card-description">Popular</span>
@@ -147,7 +149,7 @@
           </div>
         </div>
         <div class="col-xs-12 col-sm-4">
-          <div class="card">
+          <div class="card" data-sr="scale up 20%">
             <span class="card-bg" style="background-image: url('http://unsplash.it/500/300/?image=2')"></span>
             <span class="card-shadow"></span>
             <span class="card-description">Popular</span>
@@ -220,6 +222,13 @@
   </div>
 </div>
 
+
+    <script src='../javascripts/vendor/scrollReveal.min.js'></script>
+    <script>
+
+      window.sr = new scrollReveal();
+
+    </script>
 
   </body>
 </html>
