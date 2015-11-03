@@ -16,3 +16,22 @@
     z-index: 2;
   }
 }
+
+@keyframes fadeInAndSlideDown {
+  0% {
+    transform: translateY(-100%);
+    opacity: 0;
+  }
+
+  100% {
+    transform: translateY(0%);
+    opacity : 1;
+  }
+}
+
+.fadeInAndSlideDown {
+  opacity: 0;
+  animation: fadeInAndSlideDown 1s 0.5s ease forwards;
+  -webkit-animation: fadeInAndSlideDown 1s 0.5s ease forwards;
+  -moz-animation: fadeInAndSlideDown 1s 0.5s ease forwards;
+}

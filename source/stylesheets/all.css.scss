@@ -5,6 +5,10 @@ html {
   min-height: 100%;
 }
 
+body {
+  padding-top : 70px;
+}
+
 @import "config/variables";
 @import "config/bootstrap_variables";
 
